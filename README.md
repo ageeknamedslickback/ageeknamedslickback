@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Python | Django | Go | REST | GraphQL
+- 🌱 I’m currently learning Design(Figma) | Dart | Flutter
+- 📫 How to reach me: ken.mathenge.ndungu@gmail.com
+
 <!--
 **ageeknamedslickback/ageeknamedslickback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
