@@ -1,8 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Python | Django | Go | REST | GraphQL
+- :spades: Goes without saying, I'm good with databases (MySQL, PostgreSQL, Google Cloud Firestore)
+- :tea: `CI/CD` is my cup of tea, talkabout CireclCI, GitlabCI, YAML, Google Cloud Platform
 - 🌱 I’m currently learning Design(Figma) | Dart | Flutter
-- 📫 How to reach me: ken.mathenge.ndungu@gmail.com
+- 📫 How to reach me: 
+  - **Email**: ken.mathenge.ndungu@gmail.com
+  - **LinkedIn**: https://www.linkedin.com/in/ken-mathenge-70506a181/
 
 <!--
 **ageeknamedslickback/ageeknamedslickback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
