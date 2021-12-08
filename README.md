@@ -1,4 +1,4 @@
-### Hi there, the name is Kenneth Mathnge 👋
+### Hi there, the name is Kenneth Mathenge 👋
 
 - :computer: Software Enginneering is my profession.
 - :satisfied: Fasinated about solving proplems using technology
