@@ -1,8 +1,8 @@
 ### Hi there, the name is Kenneth Mathenge 👋
 
 - :computer: Software Enginneering is my profession.
-- :satisfied: Fasinated about solving proplems using technology
-- :spades: I bring my A-Game in Fullstack Development
+- :satisfied: Fascinated about solving proplems using technology
+- :spades: I bring my A-Game in software Development
 - :tea: My cup of tea is: Python, Go, Django, Django REST Framework, GraphQL, Flutter, React and DevOps
 - 📫 How to reach me: 
   - **Email**: ken.mathenge.ndungu@gmail.com
